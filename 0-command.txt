@@ -1,0 +1,25 @@
+// npm - global command, comes with node
+// npm --version
+
+// local dependency - use it only in this particular project
+// npm i <packageName>
+
+// global dependency - use it in any project
+// npm install -g <packageName>
+
+// package.json - manifest file (stores importnant info abour project/package)
+// manual approach (create package.json in the root, create properties etc)
+// npm init (step by step, press enter to skip)
+// npm init -y (everything defualt)
+
+// npm i <packageName> -D  -for dev mod only
+
+// initial git:
+// 1- git init
+// 2- git add.
+// 3- git commit -m "your comment"
+// 4- git remote add origin git@github.com:O-Nasr/temp-node-tut.git
+// 5- git branch -M main
+// 6- git push -u origin main
+
+// npm unistall <packageName>
