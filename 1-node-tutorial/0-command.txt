@@ -23,3 +23,4 @@
 // 6- git push -u origin main
 
 // npm unistall <packageName>
+// npm install - after git project from git hub
